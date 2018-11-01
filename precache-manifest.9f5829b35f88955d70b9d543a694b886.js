@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/quoteMachine-React/static/css/main.646c7ff5.chunk.css"
   },
   {
-    "revision": "e8727c64f5759070df50959ff63880c8",
+    "revision": "1afd1143307cfe263d8696a67133a6ab",
     "url": "/quoteMachine-React/index.html"
   }
 ];
